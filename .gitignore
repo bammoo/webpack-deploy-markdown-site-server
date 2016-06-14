@@ -1,0 +1,11 @@
+/_tasks
+.DS_Store
+npm-debug.log
+node_modules
+dist/
+dev.
+dev/
+.idea/
+
+*.sublime-project
+*.sublime-workspace
